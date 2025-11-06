@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "title": "921 Butler Street",
+    "city": "Toledo, OH",
+    "price": "$72,000",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "type": "Cash",
+    "down": "$0",
+    "monthly": "$0",
+    "coords": [41.6639, -83.5552],
+    "image": "https://via.placeholder.com/600x300?text=921+Butler+St"
+  },
+  {
+    "id": 2,
+    "title": "4713 9th Avenue South",
+    "city": "Birmingham, AL",
+    "price": "$260,000",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "type": "Subject-To",
+    "down": "$35,000",
+    "monthly": "$1,857",
+    "coords": [33.5186, -86.8104],
+    "image": "https://via.placeholder.com/600x300?text=4713+9th+Ave+S"
+  },
+  {
+    "id": 3,
+    "title": "8314 North 29th Avenue",
+    "city": "Phoenix, AZ",
+    "price": "$298,956",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "type": "Subject-To",
+    "down": "$33,000",
+    "monthly": "$2,245.63",
+    "coords": [33.4484, -112.074],
+    "image": "https://via.placeholder.com/600x300?text=8314+N+29th+Ave"
+  },
+  {
+    "id": 4,
+    "title": "319 South Olive Street",
+    "city": "San Antonio, TX",
+    "price": "$613,000",
+    "bedrooms": 7,
+    "bathrooms": 4,
+    "type": "Cash",
+    "down": "$125,000",
+    "monthly": "$2,778",
+    "coords": [29.4241, -98.4936],
+    "image": "https://via.placeholder.com/600x300?text=319+South+Olive+St"
+  }
+]
